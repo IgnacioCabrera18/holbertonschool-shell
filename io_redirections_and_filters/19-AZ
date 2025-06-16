@@ -1,2 +1,2 @@
 #!/bin/bash
-REPLACE A;c >> Z;e
+REPLACE "A""c" >> "Z""e"
