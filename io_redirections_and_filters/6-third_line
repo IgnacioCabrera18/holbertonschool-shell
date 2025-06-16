@@ -1,2 +1,2 @@
 #!/bin/bash
-tr <"iacta"> -n 3
+head <"iacta"> -n 3
