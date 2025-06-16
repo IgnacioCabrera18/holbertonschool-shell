@@ -1,0 +1,2 @@
+#!/bin/bash
+tr <"iacta"> -n 3
